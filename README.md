@@ -1,2 +1,1 @@
-# cybersecurity_simulation
-cybersecurity simulation
+For fun and learning : experience fully automated cybersecurity training with our single‑file Flask application—no manual scenario creation required! Powered by DeepSeek (available as an offline, free download through Ollama Meta), the AI autonomously generates realistic attack scenarios, deploys defense strategies, and continuously monitors logs in a safe, virtualized environment. Red Team reconnaissance, Blue Team mitigation, and SOC Analyst oversight all run on autopilot . What an incredible era we’re living in .
